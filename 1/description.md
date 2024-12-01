@@ -9,6 +9,7 @@
 ```
 
 # Task 1
+## Question
 Maybe the lists are only off by a small amount! To find out, pair up the numbers and measure how far apart they are. Pair up the smallest number in the left list with the smallest number in the right list, then the second-smallest left number with the second-smallest right number, and so on.
 
 Within each pair, figure out how far apart the two numbers are; you'll need to add up all of those distances. For example, if you pair up a 3 from the left list with a 7 from the right list, the distance apart is 4; if you pair up a 9 with a 3, the distance apart is 6.
@@ -24,8 +25,10 @@ Finally, the largest number in the left list is 4, while the largest number in t
 To find the total distance between the left list and the right list, add up the distances between all of the pairs you found. In the example above, this is 2 + 1 + 0 + 1 + 2 + 5, a total distance of 11!
 
 Your actual left and right lists contain many location IDs. What is the total distance between your lists?
-
+## Solution
+3574690
 # Task 2
+## Question
 This time, you'll need to figure out exactly how often each number from the left list appears in the right list. Calculate a total similarity score by adding up each number in the left list after multiplying it by the number of times that number appears in the right list.
 
 For these example lists, here is the process of finding the similarity score:
@@ -39,3 +42,5 @@ The last number, 3, appears in the right list three times; the similarity score 
 So, for these example lists, the similarity score at the end of this process is 31 (9 + 4 + 0 + 0 + 9 + 9).
 
 Once again consider your left and right lists. What is their similarity score?
+## Solution
+22565391
