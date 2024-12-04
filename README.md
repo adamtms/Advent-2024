@@ -8,6 +8,7 @@ This repository contains solutions for the Advent of Code 2024 challenges. The s
 - [Languages Used](#languages-used)
 - [Structure](#structure)
 - [How to Run](#how-to-run)
+- [References](#references)
 
 ## Introduction
 
@@ -87,3 +88,17 @@ g++ main.cpp -o main
 cd dayXX
 node index.js
 ```
+
+## References
+
+### Day 1
+- [Description](./day01/description.md) | [Input](./day01/input.txt)
+- [Python](./day01/main.py) | [Rust](./day01/rust/src/main.rs) | [Java](./day01/Main.java) | [C++](./day01/main.cpp) | [JavaScript](./day01/index.js)
+
+### Day 2
+- [Description](./day02/description.md) | [Input](./day02/input.txt)
+- [Python](./day02/main.py)
+
+### Day 3
+- [Description](./day03/description.md) | [Input](./day03/input.txt)
+- [Python](./day03/main.py)
