@@ -6,4 +6,5 @@ Cargo.lock
 *.class
 *.out
 
+.idea
 .vscode
