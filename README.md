@@ -102,3 +102,7 @@ node index.js
 ### Day 3
 - [Description](./day03/description.md) | [Input](./day03/input.txt)
 - [Python](./day03/main.py)
+
+## Day 5
+- [Description](./day05/description.md) | [Input](./day05/input.txt)
+- [Python](./day05/main.py)
