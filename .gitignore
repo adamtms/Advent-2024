@@ -1,6 +1,5 @@
 devug
 target
-Cargo.lock
 **/*.rs.bk
 *.pdb
 *.class
